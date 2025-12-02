@@ -90,7 +90,7 @@ npx jest
 pip install selenium
 ```
 
-**Executar o teste automatizado** (IMPORTANTE ESTAR NA RAIZ DO PROJETO [qts-gestao-estoque/])
+**Executar o teste automatizado** (IMPORTANTE ESTAR NA RAIZ DO PROJETO: qts-gestao-estoque/ )
 ```bash
 python tests/POM/test_produto_cadastrar.py 
 ```
