@@ -116,7 +116,7 @@ A página inicial apresenta:
 
 ### Página de Edição
 
-Mesma estrutura das páginas de cadastro, porém com os dados já
+Mesma estrutura da página de cadastro, porém com os dados já
 preenchidos para alteração.\
 É possível editar um produto, alterando seu nome, sua marca,
 seu preço de custo e seu preço de venda, desde que respeite
