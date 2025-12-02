@@ -85,12 +85,12 @@ npx jest
 
 ## SELENIUM
 
-- 1. **Instalar as dependências**
+**Instalar as dependências**
 ```bash
 pip install selenium
 ```
 
-- 2. **Executar o teste automatizado** (IMPORTANTE ESTAR NA RAIZ DO PROJETO [qts-gestao-estoque/])
+**Executar o teste automatizado** (IMPORTANTE ESTAR NA RAIZ DO PROJETO [qts-gestao-estoque/])
 ```bash
 python tests/POM/test_produto_cadastrar.py 
 ```
