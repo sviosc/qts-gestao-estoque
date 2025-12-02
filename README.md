@@ -161,7 +161,7 @@ na raiz do projeto, dentro da subpasta utils
 utils/Log.js
 
 Por meio do Singleton, registra-se somente uma instância no sistema,
-responsável por registrar as ações realizadas no sistema.
+responsável por registrar as ações realizadas na aplicação.
 A exibição dessas ações pode ser visualizada na página log.html,
 que pode ser acessada na página inicial da aplicação.
 
