@@ -179,5 +179,4 @@ que pode ser acessada na página inicial da aplicação.
 
 **ETEC Sales Gomes**\
 Ensino Médio com Habilitação em **Técnico de Desenvolvimento de Desenvolvimento de Sistemas**
-Sistemas**\
 Tatuí -- SP \| 2025
