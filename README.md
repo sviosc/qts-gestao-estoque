@@ -22,7 +22,7 @@ O projeto inclui:
 - Repositório em memória e repositório SQLite  
 - Logger usando o Design Pattern Singleton  
 - Interface simples em HTML + JS  
-- Testes unitários, testes automatizados, integração e funcionais  
+- Testes unitários e testes automatizados 
 
 ------------------------------------------------------------------------
 
