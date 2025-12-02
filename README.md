@@ -120,7 +120,7 @@ Mesma estrutura da página de cadastro, porém com os dados já
 preenchidos para alteração.\
 É possível editar um produto, alterando seu nome, sua marca,
 seu preço de custo e seu preço de venda, desde que respeite
-às restrições impostas.
+as restrições impostas.
 
 
 ------------------------------------------------------------------------
